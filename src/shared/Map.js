@@ -24,7 +24,7 @@ const Map = ({ index = 0, markers, handleClick }) => {
         keyboardShortcuts: false,
       }}
     >
-      {markers.map(({ id, position }, i) => (
+      {markers && markers?.map(({ id, position }, i) => (
         <Marker
           icon={{ 
             url: (require(`./../images/${i === index ? "marker_selected" : "marker_unselected"}.png`)),

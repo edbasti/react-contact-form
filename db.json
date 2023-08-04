@@ -1,0 +1,37 @@
+{
+  "markers" : [
+  {
+    "id": 1,
+    "name": "Paphos, Cyprus 22033",
+    "phone": "+30 210 3635",
+    "hours": "Mon to Fri:  9:00 AM - 6:00 PM",
+    "email": "info@century21.com",
+    "position": {
+      "lat": 34.775930,
+      "lng": 32.421480
+    }
+  },
+  {
+    "id": 2,
+    "name": "Tsakalof 15, Kolonaki, Limassol, Cyprus 22033",
+    "phone": "+1 456 3635",
+    "hours": "Mon to Fri:  8:00 AM - 5:00 PM",
+    "email": "info2@century21.com",
+    "position": {
+      "lat": 34.669820,
+      "lng": 33.043850
+    }
+  },
+  {
+    "id": 3,
+    "name": "3rd Address, Cyprus 22033",
+    "phone": "+30 210 1111",
+    "hours": "Mon to Fri:  10:00 AM - 7:00 PM",
+    "email": "info3@century21.com",
+    "position": {
+      "lat": 34.682199,
+      "lng": 33.009294
+    }
+  }
+]
+}
