@@ -1,0 +1,34 @@
+.navbar-1 {
+  display: flex;
+  flex-direction: row;
+  padding-left: 120px !important;
+  padding-right: 120px !important;
+  justify-content: space-between !important;
+  width: 100%;
+  background-color: #C6B68B;
+}
+
+.navbar-2 {
+  display: flex;
+  flex-direction: row;
+  padding-left: 120px !important;
+  width: 100%;
+  height: 100px;
+  background-color: #C6B68B;
+}
+
+.navlink {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 14px;
+}
+
+.icon-img {
+  margin-right: 104.63px;
+}
+
+.nav-mid {
+  display: flex;
+  align-items: center;
+}
